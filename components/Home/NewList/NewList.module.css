@@ -1,0 +1,25 @@
+.newList{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20pt;
+  margin-bottom: 20pt;
+}
+
+.button{
+  height: 40pt;
+  width: 30%;
+  background-color: lightblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10pt;
+  -webkit-box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.7);
+  -moz-box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.7);
+  box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.7);
+}
+
+.buttonTitle{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
